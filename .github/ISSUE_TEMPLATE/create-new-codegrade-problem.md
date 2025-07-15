@@ -11,11 +11,11 @@ assignees: ''
 
 **Objectives and goals of the old problem:**
 
-[ ] New problem text
-[ ] Implement a solution for the problem
-[ ] Think about how to test the problem (make a separate MD if needed)
-[ ] Make unit tests for your solution
-[ ] Create template
-   [ ] Template files (partly solved)
-   [ ]  resource files (txt, json, .db, etc.)
-[ ] Other files needed to test the solution
+- [ ] New problem text
+- [ ] Implement a solution for the problem
+- [ ] Think about how to test the problem (make a separate MD if needed)
+- [ ] Make unit tests for your solution
+- [ ] Create template
+   - [ ] Template files (partly solved)
+   - [ ]  resource files (txt, json, .db, etc.)
+- [ ] Other files needed to test the solution
